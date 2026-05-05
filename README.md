@@ -1,4 +1,4 @@
-# Pulmonary Disease Risk Prediction System
+# Pulmonary Disease (Lung Cancer) Risk Prediction 
 
 ##  Project Overview
 This project aims to develop a predictive system for pulmonary disease using clinical and lifestyle-related data. The goal is to identify high-risk patients by analyzing key health and environmental factors and applying machine learning techniques for accurate prediction.
